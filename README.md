@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Harshvardhan Kulkarni**, currently pursuing my bachelors from Bharti Vidyapeeth in *Bachlor Computer Application*. <br>
+✔️ I am **Harshvardhan Kulkarni**, currently pursuing my bachelors from Bharti Vidyapeeth in *Computer Application*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing data analysis. <br>
 
