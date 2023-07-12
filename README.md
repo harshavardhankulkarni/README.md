@@ -23,7 +23,7 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/harshvardhan-kulkarni/)
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvardhan-kulkarni/)](https://www.linkedin.com/in/harshvardhan-kulkarni/)
 
 [![Gmail Badge](https://img.shields.io/badge/-harshavardhankulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshkulkarni78@gmail.com)](mailto:harshkulkarni78@gmail.com)
 
