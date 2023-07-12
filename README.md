@@ -18,14 +18,14 @@
 <br>
 
 
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+<!--NOMINATION FOR STAR GIT LINK CODE
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>-->
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvardhan-kulkarni/)](https://www.linkedin.com/in/harshvardhan-kulkarni/)
+[![Linkedin Badge](https://img.shields.io/badge/-HarshvardhanKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvardhan-kulkarni/)](https://www.linkedin.com/in/harshvardhan-kulkarni/)
 
-[![Gmail Badge](https://img.shields.io/badge/-harshavardhankulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshkulkarni78@gmail.com)](mailto:harshkulkarni78@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-harshkulkarni78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshkulkarni78@gmail.com)](mailto:harshkulkarni78@gmail.com)
 
 ---
 
@@ -54,12 +54,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshavardhankulkarni&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
----
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshavardhankulkarni&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
-
-  
+---  
 
 ---
   </code>
