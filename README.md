@@ -13,34 +13,51 @@
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing Data analysis and Backend Development. <br>
 
-✔️ I have experience in Back-end web development .<br>
+✔️ I have experience in Back-end web development .
 
-<br>
-
+<hr>
 
 <!--NOMINATION FOR STAR GIT LINK CODE
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>-->
 
-
-<!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-HarshvardhanKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvardhan-kulkarni/)](https://www.linkedin.com/in/harshvardhan-kulkarni/)
-
-[![Tweeter Badge](https://img.shields.io/badge/-harshkulllkarni-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/harshkullkarni/)](https://twitter.com/harshkullkarni)
-
-[![Gmail Badge](https://img.shields.io/badge/-harshkulkarni78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshkulkarni78@gmail.com)](mailto:harshkulkarni78@gmail.com)
+<!-- CONNECT WITH ME -->
+<h2>Connect with Me</h2>
+<p>
+  You can find me on various platforms:
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/harshvardhan-kulkarni/">
+        <img src="https://img.shields.io/badge/-HarshvardhanKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/harshkullkarni">
+        <img src="https://img.shields.io/badge/-harshkulllkarni-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </li>
+    <li>
+      <a href="mailto:harshkulkarni78@gmail.com">
+        <img src="https://img.shields.io/badge/-harshkulkarni78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+      </a>
+    </li>
+  </ul>
+</p>
 
 ---
+<!-- TECHNOLOGIES -->
+<h2>Technologies I'm Familiar With</h2>
 <br>
-<div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-loading-default.gif" /></div>
-<br>
-
+<p>Programming Languages:</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
 </div>
 <br>
+<p>Front-end Technology:</p>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -52,6 +69,7 @@
   <img width="12" />
  </div>
  <br>
+<p>Back-end Technology:</p>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -61,6 +79,7 @@
   <img width="12" />
  </div>
   <br>
+<p>Database:</p>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -72,6 +91,7 @@
   <img width="12" />
  </div>
   <br>
+<p>Other:</p>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
