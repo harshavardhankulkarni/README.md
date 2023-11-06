@@ -47,7 +47,7 @@
 <!-- TECHNOLOGIES -->
 <h2>Technologies I'm Familiar With</h2>
 <br>
-<p>Programming Languages:</p>
+<b>Programming Languages:</b>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -57,7 +57,7 @@
   <img width="12" />
 </div>
 <br>
-<p>Front-end Technology:</p>
+<b>Front-end Technology:</b>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -69,7 +69,7 @@
   <img width="12" />
  </div>
  <br>
-<p>Back-end Technology:</p>
+<b>Back-end Technology:</b>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -79,7 +79,7 @@
   <img width="12" />
  </div>
   <br>
-<p>Database:</p>
+<b>Database:</b>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -91,7 +91,7 @@
   <img width="12" />
  </div>
   <br>
-<p>Other:</p>
+<b>Other:</b>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
